@@ -68,12 +68,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarunsharma32186&show_icons=true&theme=default)
-
----
-
 ## 📫 Connect With Me
 
 - LinkedIn: [(Add your LinkedIn link here)](https://www.linkedin.com/in/tarun-sharma-0243b5187/)
