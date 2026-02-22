@@ -39,12 +39,15 @@
 
 ## 📂 Featured Projects
 
-### 🛒 Grocery Management System (In Progress)
-- Production-style backend architecture
+### 🏏 TurfHub – Multi-Sport Booking Backend (In Progress)
+A scalable backend system for booking sports turfs (starting with cricket, extendable to football, badminton, etc).
+Features:
 - JWT Authentication
-- Role-based access
-- Dockerized setup
+- Role-based access (User / Owner / Admin)
+- Slot booking engine
+- Concurrency handling to prevent double booking
 - PostgreSQL integration
+- Dockerized setup
 
 ### 📊 Power BI Sample Application
 - Data integration & reporting concepts
